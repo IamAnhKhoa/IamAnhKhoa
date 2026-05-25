@@ -2,17 +2,23 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&background=00000000&width=750&lines=Xin+ch%C3%A0o!+T%C3%B4i+l%C3%A0+Anh+Khoa+%F0%9F%91%8B;L%E1%BA%ADp+tr%C3%ACnh+vi%C3%AAn+Y+t%E1%BA%BF+%26+H%C3%A0nh+ch%C3%ADnh;%F0%9F%A4%96+AI+%7C+%E2%98%81%EF%B8%8F+Serverless+%7C+%F0%9F%93%8A+Automation;Hi+there!+I%27m+AnhKhoaTran+%F0%9F%91%8B&center=true&size=22)](https://git.io/typing-svg)
 
+<!-- Developer Animation - Dark/Light mode adaptive -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="Developer coding animation"/>
+</picture>
+
 <br/>
 
-<a href="https://github.com/IamAnhKhoa">
-  <img src="https://img.shields.io/github/followers/IamAnhKhoa?label=Follow%20me&style=social" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=IamAnhKhoa&label=Profile%20Views&color=0e75b6&style=flat" />
-&nbsp;
-<img src="https://img.shields.io/badge/Joined-2024-informational?style=flat&logo=github" />
+<div>
+  <a href="https://github.com/IamAnhKhoa"><img src="https://img.shields.io/badge/GitHub-IamAnhKhoa-blue?logo=github" alt="GitHub" /></a>&emsp;
+  <a href="https://IamAnhKhoa.github.io"><img src="https://img.shields.io/badge/Portfolio-IamAnhKhoa.github.io-8c36db" alt="Portfolio" /></a>&emsp;
+  <a href="https://zalo.me/0000000000"><img src="https://img.shields.io/badge/Zalo-Liên%20hệ-07c160?logo=zalo&logoColor=white" alt="Zalo" /></a>&emsp;
+  <img src="https://komarev.com/ghpvc/?username=IamAnhKhoa&label=Views&color=orange&style=flat" alt="Views" />&emsp;
+</div>
 
-<br/><br/>
+<br/>
 
 > 🇻🇳 **[Tiếng Việt ↓](#-giới-thiệu)** &nbsp;|&nbsp; 🇬🇧 **[English ↓](#-about-me)**
 
@@ -201,10 +207,10 @@ Quản lý hồ sơ viên chức, báo cáo nhân lực, tự động nhắc vi�
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=IamAnhKhoa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&locale=vi" width="420"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=IamAnhKhoa&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" width="420"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAnhKhoa&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="300"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IamAnhKhoa&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&langs_count=8" width="300"/>
     </td>
   </tr>
 </table>
@@ -225,7 +231,7 @@ Quản lý hồ sơ viên chức, báo cáo nhân lực, tự động nhắc vi�
 
 <br/>
 
-<!-- Streak Stats with decorations -->
+<!-- Streak Stats with wing decorations like 88lin -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" width="60" align="left"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IamAnhKhoa&theme=tokyonight&hide_border=true&locale=vi&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
@@ -247,6 +253,7 @@ Quản lý hồ sơ viên chức, báo cáo nhân lực, tự động nhắc vi�
 </div>
 
 ---
+
 
 ## 🌱 Đang học | Currently Learning
 
