@@ -194,16 +194,55 @@ Quản lý hồ sơ viên chức, báo cáo nhân lực, tự động nhắc vi�
 
 ---
 
-## 📊 Thống kê GitHub | GitHub Stats
+## 🚀 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IamAnhKhoa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=vi&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAnhKhoa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=IamAnhKhoa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&locale=vi" width="420"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAnhKhoa&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="300"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IamAnhKhoa&theme=tokyonight&hide_border=true&locale=vi&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!-- Activity Graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IamAnhKhoa&theme=tokyo-night&hide_border=true&area=true&area_color=00D4FF&color=00D4FF&line=00D4FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+<!-- 3D Contribution Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamAnhKhoa/IamAnhKhoa/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IamAnhKhoa/IamAnhKhoa/main/profile-3d-contrib/profile-gitblock.svg" />
+  <img alt="3d-contrib" src="https://raw.githubusercontent.com/IamAnhKhoa/IamAnhKhoa/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</picture>
+
+<br/>
+
+<!-- Streak Stats with decorations -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" width="60" align="left"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=IamAnhKhoa&theme=tokyonight&hide_border=true&locale=vi&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" width="60" align="right"/>
+
+<br/><br/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamAnhKhoa/IamAnhKhoa/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IamAnhKhoa/IamAnhKhoa/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/IamAnhKhoa/IamAnhKhoa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+<!-- Profile Trophy -->
+[![Trophy](https://github-profile-trophy.vercel.app/?username=IamAnhKhoa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
